@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>TRINITI - Software Training Institution</title>
+    <title>ROHIT TECH - Software Training Institution</title>
     <style>
         /* Reset and Base Styles */
         * {
@@ -617,7 +617,7 @@
     <!-- Header -->
     <header>
         <div class="container header-container">
-            <a href="#" class="logo">TRINITI <span>Trainings</span></a>
+            <a href="#" class="logo">ROHIT TECH <span>Trainings</span></a>
             <button class="mobile-menu-btn" id="mobileMenuBtn">
                 <i class="fas fa-bars"></i>
             </button>
