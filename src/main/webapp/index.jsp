@@ -945,7 +945,7 @@
                             </div>
                             <div class="contact-text">
                                 <h4>Email</h4>
-                                <p><a href="mailto:info@mytriniti23.com">info@myfuturehub.com</a></p>
+                                <p><a href="mailto:info@mytriniti23.com">info@triniti.com</a></p>
                             </div>
                         </div>
                     </div>
@@ -1039,7 +1039,7 @@
                     </div>
                     <div class="contact-item">
                         <i class="fas fa-envelope"></i>
-                        <span>info@myfuturehub.com</span>
+                        <span>info@mytriniti123.com</span>
                     </div>
                 </div>
             </div>
